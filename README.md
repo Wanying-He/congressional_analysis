@@ -33,7 +33,7 @@ python main.py
 ```
 
 ## Data Description
-The project uses mock congressional statement data with the following columns:
+The project uses congressional statement data with the following columns:
 - Statement: The speech or legislative statement content.
 - Date: Date of the statement.
 - Speaker: The speaker or representative.
